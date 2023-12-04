@@ -3,7 +3,8 @@
 ## Contacts
 
 - **Telegram:** [Yury785](https://t.me/Yury785)
-- **Discord:** [https://discord.com/users/220167149979697153](metamorfoza007)
+- **Discord:** [metamorfoza007](https://discord.com/users/220167149979697153)
+- **Github:** [Metamorfoza42](https://github.com/Metamorfoza42/)
 - **E-mail:** yuriy.p142@gmail.com
 
 ## About me
@@ -30,7 +31,9 @@ console.log(res);
 ## Education
 
 - HTML course on [Mimo](https://mimo.org/) app
+
   ![mimo certificate](./images/mimo-certificates-194.png)
+
 - St. Petersburg Polytechnic University, Mechatronics and Robotics master's degree
 
 ## English Language
